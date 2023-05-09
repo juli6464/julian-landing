@@ -1,0 +1,23 @@
+{
+  "name": "julian-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juli6464/julian-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juli6464/julian-landing/issues"
+  },
+  "homepage": "https://github.com/juli6464/julian-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
