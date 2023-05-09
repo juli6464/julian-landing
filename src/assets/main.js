@@ -15,7 +15,7 @@
 // 	console.error(error);
 // }
 
-const API='https://youtube-v31.p.rapidapi.com/search?channelId=UCq7KwgQzCgh69_QjtsW7uPQ&part=snippet%2Cid&order=date&maxResults=9';
+const API='https://youtube-v31.p.rapidapi.com/search?channelId=UCos3UOx4yI8p5rS0wXT7JSQ&part=snippet%2Cid&order=date&maxResults=9';
 const content=null||document.getElementById('content');
 const options={method:'GET',
                 headers:{'X-RapidAPI-Host':'youtube-v31.p.rapidapi.com','X-RapidAPI-Key':'c68edbdba9mshc3cb6eb8038f3b2p1f444ajsna5de19fe1256'}
